@@ -1,7 +1,5 @@
 # Tableau Dashboard - CompleteStoreAnalysis
 
-https://github.com/user-attachments/assets/b62eaf0c-9b74-4006-83e5-d5cbf02df237
-
 ### 1. Overview
 #### Purpose:
 The CompleteStoreAnalysis dashboard provides insights about the orders, customers, location & products. 
@@ -45,3 +43,5 @@ For any questions or issues related to the dashboard, please contact:
 #### Email: sidd.sahni3@gmail.com
 #### LinkedIn: [Siddharth Sahni](https://www.linkedin.com/in/er-siddharth-sahni-36b227103/)
 #### Website: [TheDataMan.github.io/](https://siddharth3.github.io/TheDataMan.github.io/)
+
+https://github.com/user-attachments/assets/b62eaf0c-9b74-4006-83e5-d5cbf02df237
